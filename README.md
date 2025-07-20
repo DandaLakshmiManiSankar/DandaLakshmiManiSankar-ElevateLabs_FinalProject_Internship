@@ -20,7 +20,10 @@ This project ranks resumes based on their relevance to a job description using N
 
 ## Clone the Repository
 
-git clone https://github.com/DandaLakshmiManiSankar/DandaLakshmiManiSankar/ElevateLabs_FinalProject_Internship.git
+```bash
+
+git clone https://github.com/DandaLakshmiManiSankar/DandaLakshmiManiSankar-ElevateLabs_FinalProject_Internship.git
+
 cd ai-resume-ranker
 
 ## Create a Virtual Environment
